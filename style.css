@@ -15,13 +15,9 @@ body {
   font-size: 4em;
 }
 
-}
-
 nav {/*Buttons on bottom*/
   width: 1000px;
-  font-family: Snell Roundhand;
-  font-size: 2em;
-  text-align: center;
+  float: center;
   margin-top: 600px;
 }
 
@@ -31,6 +27,9 @@ li {/*Buttons*/
   float: center;
   padding: 60px;
   display: inline;
+  font-family: Snell Roundhand;
+  font-size: 2em;
+
 }
 
 footer {/*Copyright*/
