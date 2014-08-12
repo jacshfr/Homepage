@@ -1,0 +1,57 @@
+body {
+  background-color: #000000;
+  padding-bottom: 200px;
+  color: #FFFFFF;
+  background-image: url("https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10373787_10202265978783484_4598617139322932039_n.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+#logo {/* Title*/
+  font-family: Snell Roundhand;
+  position: absolute;
+  top: 40px;
+  left: 50px;
+  font-size: 4em;
+}
+
+}
+
+nav {/*Buttons on bottom*/
+  width: 1000px;
+  font-family: Snell Roundhand;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 600px;
+}
+
+li {/*Buttons*/
+  width: 100px;
+  color: #FFFFFF;
+  float: center;
+  padding: 60px;
+  display: inline;
+}
+
+footer {/*Copyright*/
+  width: 1000px;
+  font-size: .5em;
+  text-align: right;
+  font-family: Arial Narrow;
+  font-style: italic;
+  padding-top: 50px;
+  color: #585858;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: #D8D8D8;
+}
